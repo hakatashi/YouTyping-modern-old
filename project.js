@@ -122,12 +122,12 @@ p.nominalBounds = new cjs.Rectangle(-16,-15.5,32,31);
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(1));
 
 	// songTitle
-	this.songTitle = new cjs.Text("Tell your world", "bold 72px 'DejaVu Sans'", "#333333");
+	this.songTitle = new cjs.Text("Tell your world", "bold 72px 'DejaVu Sans'", "#99FF99");
 	this.songTitle.name = "songTitle";
 	this.songTitle.textAlign = "center";
 	this.songTitle.lineHeight = 74;
 	this.songTitle.lineWidth = 868;
-	this.songTitle.setTransform(479.9,220.7);
+	this.songTitle.setTransform(479.9,222.1);
 
 	this.timeline.addTween(cjs.Tween.get(this.songTitle).wait(1));
 
