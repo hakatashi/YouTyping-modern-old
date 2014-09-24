@@ -1,4 +1,6 @@
 YouTyping-modern
 ================
 
-The default skin of YouTyping
+**ABANDONED**
+
+Go there: https://github.com/hakatashi/YouTyping-Modern
